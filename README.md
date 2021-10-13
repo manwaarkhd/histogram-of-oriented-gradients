@@ -1,1 +1,1 @@
-# histogram-of-oriented-gradients
+# Histogram of Oriented Gradients:
